@@ -4,11 +4,24 @@
 
 <i>Desenvolvido por [HMontarroyos](https://github.com/HMontarroyos)</i>
 
-### Ferramentas Utilizadas na Criação do Projeto
+
+### Como Iniciar um novo projeto NODESCHOOL-javascripting ?
+
+Em sua maquina com o node instalado execute o seguinte comando 
 
 ```javascript
 npm install -g javascripting
 ```
+
+Para Inicializar o Workshop javascripting execute o comando 
+
+```javascript
+javascripting
+```
+
+E pronto você terá instalado o Workshop do NODESCHOOL de javascript em sua maquina se quiser consultar as respostas basta olhar os exercícios ja prontos aqui nesse repositorio.
+
+
 ###### Site de Referência com demais Workshops NODESCHOOL 
 
 https://nodeschool.io/pt-br/
