@@ -2,7 +2,7 @@
 
 ##### Repositorio com Exercicios resolvidos do  Workshop javascripting 
 
-Desenvolvido por [HMontarroyos](https://github.com/HMontarroyos)
+<i>Desenvolvido por [HMontarroyos](https://github.com/HMontarroyos)</i>
 
 ### Ferramentas Utilizadas na Criação do Projeto
 
